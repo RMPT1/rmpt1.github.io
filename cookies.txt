@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.ptclinic.com	TRUE	/	FALSE	1999999999	X-Mapping-fjhppofk	0ECE7D7F881AE4B61AF94C24B46106D2
+ptclinic.com	TRUE	/	FALSE	1999999999	X-Mapping-fjhppofk	0ECE7D7F881AE4B61AF94C24B46106D2
+

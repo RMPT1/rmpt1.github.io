@@ -1,0 +1,6 @@
+.seoH1{ color: #fff;font-size:18px; }
+.seoH2{ color: #fff;font-size:14px; }
+.seoFooter{ background-color:#000;font-size:x-small;color:white;margin:0;}
+.seoFooter a:link,.seoFooter a:visited{color:white;text-decoration:none;}
+.seoFooter a:hover,.seoFooter a:active{color:#888;text-decoration:none;}
+.seoPhrase{font-weight:normal;}

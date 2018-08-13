@@ -1,0 +1,96 @@
+body,td,.bottom,.mceContentBody {font-family:Trebuchet MS,arial,verdana,arial,sans-serif;letter-spacing: .5pt;}
+h1,h2,h3,h4,h5,h6 { color: #fff }
+.testimonial { color: #000066; font-style: italic; font-weight: bold }
+.testimonial {text-align:right;margin-bottom:28px;}
+.listtext { letter-spacing: 1pt }
+li { letter-spacing: 1pt; padding-bottom: 10px }
+.faqheadline { color: #000066; font-size: 1.1em; font-weight: bold }
+a:link, a:visited { color: #ffffff;outline:none;font-weight:bold; } /* red = DF0D0D */
+a:hover, a:active       { color: #DF0D0D; text-decoration: none;outline:none; }
+.main {padding:8px}
+.question {cursor: pointer; vertical-align:top;}
+.faqAnswer{color:black;}
+/* OPTION LINES TO CHANGE THE FORMATING FOR THE FIRST VIDEO LINK FROM THE FAQ PAGE */
+
+.video{color:black}
+.video a:link,.video a:visited { color: #023924;outline:none; }
+.video a:hover .video a:active{ color: #67A890; text-decoration: none;outline:none; }
+
+
+body,.mceContentBody{
+margin:0px;
+color:#ffffff;
+}
+td{
+vertical-align:top;
+}
+.brd{
+border:2px solid #26589D;
+}
+
+.faqbackground {
+background-color:transparent;
+}
+.question a {
+padding-left:18px;
+text-decoration:none;
+}
+.question a {
+background-image:url(../../../site/plus.gif);
+background-position:0px 4px;
+background-repeat:no-repeat;
+}
+.questionOver a {
+background-image:url(../../../site/minus.gif);
+background-position:0px 4px;
+background-repeat:no-repeat;
+}
+
+.small {
+font-size:12px;
+}
+
+.locHead{
+font-size:14px;
+}
+
+a.activeLoc{
+font-weight:bold;
+color:#fff;
+}
+li.noImage{
+list-style-type:none;
+list-style-image:none;
+list-image:none;
+list-type:none;
+list-style:none;
+}
+
+.narrow{
+font-size:13px;
+}
+
+h3.loc{
+font-size:30px;
+letter-spacing:8px;
+text-align:center;
+}
+
+.mceContentBody{background-color:#001830;font-size:16px;width:569px;}
+
+object, embed {outline:none;}
+
+.redmarqueebox {
+	background-color: #D13636;
+	border: 1px dotted #FFF;
+/*	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-bottom:0px;*/
+}
+
+.redmarqueebox h4 {
+	margin: 0px;
+	padding: 0px;
+	 color: #EAEBF0;
+}
